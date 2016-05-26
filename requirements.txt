@@ -1,0 +1,4 @@
+aiohttp==0.21.6
+Flask==0.10.1
+requests==2.10.0
+Pygments==2.1.3

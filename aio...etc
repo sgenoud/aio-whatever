@@ -1,0 +1,8 @@
+Asyncio, ce nouveau truc avec des coroutines, des tasks et une event loop? Ça
+a l'air cool. Mais bon il y a plein de nouvelles notions à comprendre
+(coroutines?). Et finalement, qu'est-ce que ça me permet d'accomplir de plus
+que mes outils que je connais et maîtrise?
+
+Cette présentation va te permettre de comprendre le génie intrinsèque de
+asyncio. Ou pas. Tu vas plutôt en sortir avec une meilleure idée de ce que ça
+peut de permettre de réaliser. Et tu auras vu un cas pratique qui l'utilise.
